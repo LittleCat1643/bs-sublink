@@ -44,11 +44,6 @@ h1, b {
     list-style: decimal;
 }
 
-.layout {
-    display: flex;
-    justify-content: center;
-}
-
 .layout > div {
     margin: 10px;
 }
